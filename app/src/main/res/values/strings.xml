@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Ranger Foster Ebook</string>
+    <string name="intro">Welcome to the Ebook version of Ranger Foster, written by Bel Richardson!\n\n
+    This App is developed by Yijia Chen, yc3523, for his extra credit assignment.\n\nClick the START
+    button to begin! \n\n\n ENJOY!</string>
+    <string name="start">start</string>
+    <string name="menu">menu</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="todo">TODO</string>
+    <string name="onetext">Ranger Forester looks after a forest. \nHe knows all animals in this forest.
+        \nIf an animal is missing or hurt, Ranger Forester knows.
+        \nForester keeps animal families safe.</string>
+    <string name="twotext">Ranger Forester is walking. \nForester can see bugs.
+        \nBugs are good for forests. \nIt means that a forest is balanced.
+        \nRanger Forester sees bees. \nThese bees will not sting.</string>
+    <string name="threetext">Ranger Forester is walking.
+        \nForester can hear birdsong.\nForester knows which bird it is by its song.
+        \nForester finds a feather. \nForester knows a bird by its feathers.</string>
+    <string name="fourtext">Ranger Forester sees a snake. \nForester is not scared.
+        \nForester will watch the snake as it sits on a rock in sun.
+        \nThis snake is sleepy. \nIt will not bite.
+        \nStill, Forester knows to stay away.</string>
+    <string name="fiveText">Ranger Forester can see spiders in webs. \nThere spiders are eating.
+        \nSpiders get insects in webs. \nSpiders spin silk sacs. \nInsects turn to drink.
+        \nForester watches spiders fix webs that bug broke.</string>
+    <string name="sixtext">Ranger Forester sees a kangaroo family. \nA little kangaroo is missing.
+        \nWhere is the little kangaroo? \nRanger Forester will look for it.
+        \nForester looks in scrub. \nForester sees tracks.</string>
+    <string name="seventext">The little kangaroo is stuck. \nIts tail is in a trap.
+        \nForester is upset. \nHe frees the kangaroo. \nForester checks its tail.
+        \nIt is not bad. This little kangaroo will heal. \nIt bounces away. \nIt fins its family.</string>
+    <string name="eighttext">Forester keeps the trap. \nHe will find who laid it. \nForester brings the trap along to a meeting.
+        \nThe rangers are all upset.</string>
+    <string name="ninetext">The rangers find who laid the traps and they get cops.
+        \n\nThe animals are safe again.</string>
+    <string name="the_end">THE END!!</string>
+    <string name="work_cited">Work Cited</string>
+    <string name="workcited">Richardson, Bel. “Book View.” Free Kids Books, 2018, \nfreekidsbooks.org/bookview/8860/.</string>
+    <string name="go_back">Go Back</string>
+
+</resources>
